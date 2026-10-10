@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+.claude/settings.local.json
+.config/openrouter/
+claude-code.env
+.vscode/
+.idea/
+.DS_Store
